@@ -1,0 +1,12 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Library\Library\bin\Debug\Library.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Library\Library\bin\Debug\Library.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Library\Library\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Library\Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Library\Library\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Library\Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Library\Library\obj\Debug\Library.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Library\Library\obj\Debug\Library.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Library\Library\obj\Debug\Library.Migrations.Initial.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
